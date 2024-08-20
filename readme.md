@@ -46,8 +46,12 @@ The project is organized as follows:
 
 /project-root
 │
+
 ├── index.html # Main HTML file
+
 ├── style.css # CSS file for styling
+
+
 └── main.js # JavaScript file containing game logic
 
 ## Setup
