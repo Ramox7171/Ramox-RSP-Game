@@ -54,12 +54,12 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-console.git
+   git clone https://github.com/Ramox7171/Ramox-RSP-Game.git
 
 
 2. **Navigate to the project directory**:
 ```bash
-cd rock-paper-scissors-console
+cd Ramox-RSP-Game
 ```
 
 
