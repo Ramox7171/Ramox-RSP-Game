@@ -1,6 +1,8 @@
 # Rock, Paper, Scissors Console Game
 
 Welcome to the **Rock, Paper, Scissors Console Game**! This is a simple yet fun project developed while I was learning JavaScript in November 2023. The game mimics a classic handheld console experience, where you can play the iconic Rock, Paper, Scissors game.
+![gierka](https://github.com/user-attachments/assets/af7a1683-fb0d-441b-af78-31064b53f1ba)
+
 
 ## Table of Contents
 
