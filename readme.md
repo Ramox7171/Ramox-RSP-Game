@@ -1,6 +1,8 @@
 # Rock, Paper, Scissors Console Game
 
 Welcome to the **Rock, Paper, Scissors Console Game**! This is a simple yet fun project developed while I was learning JavaScript in November 2023. The game mimics a classic handheld console experience, where you can play the iconic Rock, Paper, Scissors game.
+![gierka](https://github.com/user-attachments/assets/af7a1683-fb0d-441b-af78-31064b53f1ba)
+
 
 ## Table of Contents
 
@@ -44,8 +46,12 @@ The project is organized as follows:
 
 /project-root
 │
+
 ├── index.html # Main HTML file
+
 ├── style.css # CSS file for styling
+
+
 └── main.js # JavaScript file containing game logic
 
 ## Setup
@@ -54,12 +60,12 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-console.git
+   git clone https://github.com/Ramox7171/Ramox-RSP-Game.git
 
 
 2. **Navigate to the project directory**:
 ```bash
-cd rock-paper-scissors-console
+cd Ramox-RSP-Game
 ```
 
 
